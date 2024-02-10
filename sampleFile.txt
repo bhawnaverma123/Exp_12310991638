@@ -1,2 +1,6 @@
 Added Sample Content
+<<<<<<< HEAD
 Content Added in Main Branch
+=======
+Content Added in New Branch
+>>>>>>> newBranch
